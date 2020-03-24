@@ -3,7 +3,7 @@ NodeJs application, REST
 
 How to start application
 
-open terminal from root folder od application and run command
+open terminal from root folder of application and run command
 
 	nodemon index.js
 
